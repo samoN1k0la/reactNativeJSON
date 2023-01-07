@@ -11,6 +11,6 @@
     { "id": "7", "ime": "Nikola", "prezime": "Nikolić" },
     { "id": "8", "ime": "Luka", "prezime": "Lukić" },
     { "id": "9", "ime": "Pera", "prezime": "Perić" },
-    { "id": "10", "ime": "Cile", "prezime": "Cilić" },
+    { "id": "10", "ime": "Cile", "prezime": "Cilić" }
   ]
 }
